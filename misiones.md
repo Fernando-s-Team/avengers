@@ -1,3 +1,4 @@
 # Notas
 
-Investigar los planes del Dr. Doom.
+* Investigar los planes del Dr. Doom.
+* Capturar a Red Skull.
